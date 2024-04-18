@@ -47,6 +47,23 @@
 
 ⚙ **위 내용은 어떻게 코딩할 수 있을까요?**`프로그램의 기능`이 많아질수록 정의해야 하는 `메서드`도 점차 많아지게 됩니다. 그렇게 되면 하나의 `.java` 파일에 **매우 많은 코드**가 작성되며 이는 `가독성` 측면이나 `유지보수` 측면에서 효율적이지 못한 프로그램이 됩니다.
 그렇기에 본 프로그램은 **`기능들이 담겨있는 파일`**과 **`프로그램이 실행되는 파일`**로 나눠 작성하여 봅시다.
+▼ **[ 1단계 ] 프로그램에 필요한 `기능`들 생각해 보기**
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8d720266-d651-4530-b3e3-47e27aa42b6c/96db2083-6202-4c6c-b2be-c8dd018b7e0b/Untitled.png)
+
+▼ **[ 2단계 ] 프로그램에 필요한 `메서드 정의` 및 파일 단위로 `분할`**
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8d720266-d651-4530-b3e3-47e27aa42b6c/8875e061-5c40-4185-b8b2-5e3f34874812/Untitled.png)
+
+▼ **[ 3단계 ] 프로그램 메서드들의 `흐름도`를 그려보기**
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8d720266-d651-4530-b3e3-47e27aa42b6c/b88f941d-3a7e-43ad-bb6f-7970d95b437d/Untitled.png)
+
+!https://s3.ap-northeast-2.amazonaws.com/urclass-images/xCDAjqsuZSKsS-9ng0t-R-1652322070521.png
+
+!https://s3.ap-northeast-2.amazonaws.com/urclass-images/gt4md8OkeKuH9TIEz2lYv-1652322094194.png
+
+!https://s3.ap-northeast-2.amazonaws.com/urclass-images/JXcrTL3cFUYLGx4Cr5Z5I-1652322104948.png
 
 ✏️ **`.java` 파일 나누기**
 **객체 지향 프로그래밍**(Object Oriented Programming; 이하 **`OOP`**)은 **`객체`**를 활용하여 프로그래밍하는 것입니다.
