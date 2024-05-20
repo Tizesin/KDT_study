@@ -108,3 +108,7 @@ button:hover.equals{
 button:hover.control_btn {
     background-color: #D8DCE1;
 }
+
+button:hover.mbtn {
+    background-color: #D8DCE1;
+}
