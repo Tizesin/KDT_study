@@ -7,23 +7,14 @@
     flex-direction: column;   
     border-radius: 10px;
     justify-content: space-between;
-  }
-
-#button_position {
-    display: flex;
-    flex-direction: column; 
-    position: bottom;   
-    margin: 5px;
 }
 
-#result {
-    height: 20%;
+#option_line {
+    background-color: #EFF4F9;
+    height: 8%;
     font-size: 50px;
     font-display: right;
-    margin: 5px;
-    text-align: right;
-    line-height: 300%;
-
+    margin: 2px;
 }
 
 #top_line {
@@ -55,14 +46,22 @@
     line-height: 0%;
 }
 
-#option_line {
-    background-color: #EFF4F9;
-    height: 8%;
+#result {
+    height: 20%;
     font-size: 50px;
     font-display: right;
-    margin: 2px;
+    margin: 5px;
+    text-align: right;
+    line-height: 300%;
+
 }
 
+#button_position {
+    display: flex;
+    flex-direction: column; 
+    position: bottom;   
+    margin: 5px;
+}
 .button_line {
     display: flex;
     flex: 1;
